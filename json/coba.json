@@ -1,0 +1,32 @@
+[
+    {
+        "nama"  : "Reza Pahlevi",
+        "umur"  : 21,
+        "nrp"   : 22042019,
+        "lulus" : true,
+        "hobby" : [
+            "coding",
+            "gaming"
+        ],
+        "pembimbing" : {
+            "pembimbing1" : "Heriyadi",
+            "pembimbing2" : "Helda"
+        }
+        
+    },
+    {
+        "nama"  : "Fatmawati",
+        "umur"  : 22,
+        "nrp"   : 22042020,
+        "lulus" : true,
+        "hobby" : [
+            "shoping",
+            "ngomel"
+        ],
+        "pembimbing" : {
+            "pembimbing1" : "Rahmat",
+            "pembimbing2" : "Fadil"
+        }
+        
+    }
+]
